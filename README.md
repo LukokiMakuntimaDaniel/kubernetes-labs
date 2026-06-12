@@ -1,6 +1,3 @@
-# kubernetes-labs
-👉 kubernetes labs
-
 # ☸️ Kubernetes Labs
 
 > "A melhor forma de dominar sistemas complexos é praticar constantemente até que se tornem simples."
