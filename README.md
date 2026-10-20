@@ -4,8 +4,6 @@
 
 Este repositório foi criado para documentar todos os meus exercícios, comandos e projetos práticos com Kubernetes.
 
-Aqui não há apenas teoria — cada conceito é testado em laboratório.
-
 ---
 
 ## 🎯 Objetivo
